@@ -1,0 +1,5 @@
+build/
+.virtualgo
+.vscode
+fyne-cross/
+go.sum
